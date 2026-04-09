@@ -21,9 +21,9 @@ export default function Home() {
             transition={{ duration: 0.5 }}
           >
             <span className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs font-medium text-blue-400 ring-1 ring-inset ring-blue-500/20">
-              New: AI Coaching v2.0
+              test your skills
             </span>
-            <h1 className="mt-6 text-5xl font-extrabold tracking-tight text-white sm:text-7xl">
+            <h1 className="mt-6 text-5xl font-extrabold tracking-tight text-white sm:text-7xl font-new">
               Sync your code. <br />
               <span className="text-blue-500">Rank your college.</span>
             </h1>
